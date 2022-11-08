@@ -6,6 +6,9 @@ public class Project1 {
 @Test
 private void test() {
 System.out.println("TEST1");
+System.out.println("TEST2");
+System.out.println("TEST3");
+
 
 }
 
